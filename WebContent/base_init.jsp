@@ -13,12 +13,11 @@
 
 <link type="text/css" rel="stylesheet" href="semantic/semantic.css" />
 <link type="text/css" rel="stylesheet" href="semantic/semantic.min.css" />
-<link type="text/css" rel="stylesheet" href="mystyle/myclassp1.css" />
-<!-- <link type="text/css" rel="stylesheet" href="mystyle/header.css" /> -->
-<link type="text/css" rel="stylesheet" href="mystyle/createChart.css" />
-<!-- <link type="text/css" rel="stylesheet" href="mystyle/middleBody.css" /> -->
-<link type="text/css" rel="stylesheet" href="mystyle/exactContent.css" />
-
+<!-- <link type="text/css" rel="stylesheet" href="mystyle/myclassp1.css" />-->
+<link type="text/css" rel="stylesheet" href="mystyle/header2.css" />
+<link type="text/css" rel="stylesheet" href="mystyle/middleBody2.css" />
+<link type="text/css" rel="stylesheet" href="mystyle/exactContent2.css" />
+<link type="text/css" rel="stylesheet" href="mystyle/createChart2.css" />
 
 <style type="text/css">
 
@@ -117,7 +116,7 @@
 		</div>
 	</div>
 	<div class="rightContent" id="rightContent">
-		<p class="myclassp">Myclassp</p>
+		<!-- <p class="myclassp">Myclassp</p> -->
 		<div class="ui tab segment" data-tab="addContainer">
 			<form class="ui form">
 				<h3 class="ui dividing header">请完善新货柜信息！</h3>
