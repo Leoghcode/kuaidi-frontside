@@ -116,7 +116,7 @@
 		</div>
 	</div>
 	<div class="rightContent" id="rightContent">
-		<!-- <p class="myclassp">Myclassp</p> -->
+		<p class="myclassp">Myclassp</p>
 		<div class="ui tab segment" data-tab="addContainer">
 			<form class="ui form">
 				<h3 class="ui dividing header">请完善新货柜信息！</h3>
