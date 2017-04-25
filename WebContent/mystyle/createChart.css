@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+#createChart {
+background-color:#FFFFFF;
+padding:0;
+}
+.chartTitle1,.chartTitle2 {
+background-color:#D7D7D7;
+width:20%;
+}
+.createChartP1,.createChartP2 {
+background-color:#F2F2F2;
+}
+.createChartP2 {
+margin-top:2vh;
+}
