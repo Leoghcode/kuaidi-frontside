@@ -13,20 +13,15 @@
 
 <link type="text/css" rel="stylesheet" href="semantic/semantic.css" />
 <link type="text/css" rel="stylesheet" href="semantic/semantic.min.css" />
-<link type="text/css" rel="stylesheet" href="mystyle/header.css">
-<link type="text/css" rel="stylesheet" href="mystyle/createChart.css">
-<link type="text/css" rel="stylesheet" href="mystyle/middleBody.css">
-<link type="text/css" rel="stylesheet" href="mystyle/exactContent.css">
+<link type="text/css" rel="stylesheet" href="mystyle/myclassp1.css" />
+<!-- <link type="text/css" rel="stylesheet" href="mystyle/header.css" /> -->
+<link type="text/css" rel="stylesheet" href="mystyle/createChart.css" />
+<!-- <link type="text/css" rel="stylesheet" href="mystyle/middleBody.css" /> -->
+<link type="text/css" rel="stylesheet" href="mystyle/exactContent.css" />
 
 
 <style type="text/css">
 
-
-
-
-
-
-/**/
 
 </style>
 
@@ -122,10 +117,11 @@
 		</div>
 	</div>
 	<div class="rightContent" id="rightContent">
+		<p class="myclassp">Myclassp</p>
 		<div class="ui tab segment" data-tab="addContainer">
 			<form class="ui form">
 				<h3 class="ui dividing header">请完善新货柜信息！</h3>
-				<div class="field inline">
+				<div class="field">
 					<label>添加类型</label>
 					<select class="form-control">
 						<option>货架</option>
@@ -148,6 +144,14 @@
 							<input type="text" name="smallCell" />
 						</div>
 					</div>
+				</div>
+				<div class="field">
+					<label>货柜名称</label>
+					<input type="text" name="containerName" />
+				</div>
+				<div class="field inline">
+					<button class="ui green button" type="submit">添加</button>
+					<button class="ui red button" type="submit">取消</button>
 				</div>
 			</form>
 		</div>
